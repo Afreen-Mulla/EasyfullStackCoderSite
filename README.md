@@ -18,6 +18,11 @@ You Can Register From Here.
   <h3>You Can Log In from Here.
 </h3>
 <image src="login.jpeg" hight="500" width="500">
+  <h3>
+    Login Credentials:-</h3>
+    USERNAME  :- admin<br>
+    PASSWORD  :- admin@123<br>
+  <p>Use This Username and Password For Login</p>
 <hr>
   <h3>
 This is my Actual home page
