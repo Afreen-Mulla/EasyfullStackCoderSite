@@ -1,0 +1,199 @@
+.background
+{
+    background-image: url("pic6.jpg"); 
+    /* background:linear-gradient(to right, rgba(136, 120, 100, 0.8), rgba(143, 80, 251, .8)),
+               url("pic4.jpg") bottom center no-repeat; */
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    padding: 0;
+    margin: 0;
+    left: 0;
+
+    
+}
+.navigation{
+    width: 1350px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 70Px;
+    line-height: 14px;
+    background-color:white;
+    font-family: 'comic sans MS';
+    font-size: 18px;
+}
+.logo img{
+    float: left;
+    height: 70px;
+    width: 120px;
+    position: fixed;
+    display:flex;
+    margin-left: 20px;
+    
+}
+.btn1
+{
+    width: 140px;
+    margin-top:10px; 
+    /* margin-left: 400px; */
+    float: left;
+    /* margin-top: 270px;  */
+    height: 50px;
+    border-radius: 34%;
+    background-color: rgb(5, 129, 102); 
+     font-style: italic;
+     font-weight: bold;
+     font-size: 18px;
+     margin-right: 20px;    
+}
+.btn1:hover
+{
+    transition: 0.3s ease;
+    font-size: 15px; 
+}
+ul li
+{
+    float: left;
+    
+}
+
+.btn2
+{
+    width: 150px; 
+     /* margin-left:650px; */
+    /* margin-top: 270px;  */
+    height: 50px;
+    border-radius: 34%;
+    background-color: rgb(5, 129, 102); 
+     font-style: italic;
+     font-weight: bold;
+     font-size: 18px;
+     margin-top:10px; 
+     margin-right: 30px;
+}
+.btn2:hover
+{
+    transition: 0.3s ease;
+    font-size: 15px; 
+}
+.navigation li{
+    float: right;
+}
+.navigation a
+{
+    color: aliceblue;
+    padding: 2vh 28px;
+    margin: 2px;
+    text-decoration: none;
+    font-style: italic;
+}
+.h3
+{
+    font-size: 4.8;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.title
+{
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 45px;
+}
+.subtitle
+{
+    color: white;
+    font-style: italic;
+    
+}
+.btn3
+{    
+     width: 250px; 
+     margin-left: 5px;
+    margin-top: 20px; 
+    height: 50px;
+    border-radius: 34%;
+    background-color: rgb(5, 129, 102); 
+     font-style: italic;
+     font-weight: bold;
+     font-size: 18px;
+}
+.btn3 a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.btn3:hover
+{
+    
+    transition: 0.3s ease;
+    font-size: 22px; 
+    font-weight: 400;
+}
+.f1
+{
+    height: 500px;
+    width: 400px;
+    background-color: rgb(190, 221, 252);
+    margin-left: 900px;
+    margin-top: 70px;
+    border-radius: 15%;
+    position: fixed;
+}
+p{
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(6, 250, 197);
+    width:320px;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 35px;
+    border-radius: 30%;
+}
+p:hover
+{
+    
+    transition: 0.3s ease;
+    font-size: 32px; 
+}
+.f2
+{
+    line-height: 50px;
+    margin-left: 74px;
+    list-style:disc;
+    font-size: 18px;
+    font-style: italic;    
+}
+.f2:hover
+{  
+    transition: 0.3s ease;
+    font-size: 22px; 
+    font-weight: 400;
+}
+.btn
+{    
+     width: 250px; 
+     margin-left: 85px;
+    margin-top: 20px; 
+    height: 50px;
+    border-radius: 34%;
+    background-color: rgb(5, 129, 102); 
+     font-style: italic;
+     font-weight: bold;
+     font-size: 18px;
+}
+.btn a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.btn:hover
+{
+    
+    transition: 0.3s ease;
+    font-size: 22px; 
+    font-weight: 400;
+}
