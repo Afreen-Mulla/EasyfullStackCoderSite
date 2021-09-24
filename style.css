@@ -5,6 +5,29 @@ body
    background-repeat: repeat;
 
 }
+.btn1
+{
+    width: 140px;
+    margin-top:10px; 
+    float: left;
+    height: 50px;
+    border-radius: 34%;
+    background-color: rgb(5, 129, 102); 
+     font-style: italic;
+     font-weight: bold;
+     font-size: 18px;
+     margin-left: 1200px; 
+     
+}
+.btn1 a{
+    color: #ffff;
+    text-decoration: none;
+}
+.btn1:hover
+{
+    transition: 0.3s ease;
+    font-size: 15px; 
+}
 .LoginBox
 {
     width: 500px;
