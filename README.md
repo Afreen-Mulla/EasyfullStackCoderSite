@@ -6,34 +6,41 @@ I create one login page and register page from where you can visit my actual pag
 <\p>
 <hr>
 <h3>
-This is my home page
+This is my home page.
 </h3>
-<image src="home1.png" hight="500" width="500">
-<h3>
-This is my home page
-</h3>
-<image src="home1.png" hight="500" width="500">
-<h3>
-This is my home page
-</h3>
-<image src="home1.png" hight="500" width="500">
-<h3>
-This is my home page
-</h3>
-<image src="home1.png" hight="500" width="500">
+<image src="home1.jpeg" hight="500" width="500">
 <hr>
-<h4>
+<h3>
+You Can Register From Here.
+</h3>
+<image src="signup.jpeg" hight="500" width="500">
+<hr>
+  <h3>You Can Log In from Here.
+</h3>
+<image src="login.jpeg" hight="500" width="500">
+<hr>
+  <h3>
+This is my Actual home page
+</h3>
+<image src="home.jpeg" hight="500" width="500">
+<hr>
+  
+ <br>
+<h3>
 Technology used
-<\h4>
+
 <ul>
 <li>
 HTML
-<\li>
+
 <br>
 <li>
 CSS
-<\li>
+
 <br>
 <li>
-Bootstrap
-<\li>
+JavaScript
+<br>
+<hr>
+ <h3>
+   website link:-</h3><a href="https://afreen-mulla.github.io/EasyfullStackCoderSite/index.html">https://afreen-mulla.github.io/EasyfullStackCoderSite/index.html</a>
