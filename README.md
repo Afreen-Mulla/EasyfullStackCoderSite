@@ -3,7 +3,7 @@
 <p>
 Welcome to my full stack coder site.As of now I only create static page and give reference link to it.
 I create one login page and register page from where you can visit my actual page
-<\p>
+
 <hr>
 <h3>
 This is my home page.
